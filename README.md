@@ -1,1 +1,1 @@
-# CNN-Art-style-classification
+Dataset - https://huggingface.co/datasets/Artificio/WikiArt
